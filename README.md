@@ -2,4 +2,4 @@
 - 👀 I’m interested in ..I’m not intrested to say..
 - 🌱 I’m currently learning Python, C++..
 - 🎯 You can reach me at ... vk2207419@gmail.com ...
--     Instagram ... vk2207419@gmail.com
+-     Instagram ... vk2207419
