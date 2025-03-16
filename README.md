@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vanshdeveloper
-- 👀 I’m interested in ..I’m not intrested to say..
-- 🌱 I’m currently learning Python, C++..
+- 👋 Hi, I’m @Vansh
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning Python, pHp, C++..
 - 🎯 You can reach me at ... vk2207419@gmail.com ...
--     Instagram ... vk2207419
+-     Instagram ... vansh03308
