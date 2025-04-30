@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vansh
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Python, pHp, C++..
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Python, pHp, React, Node.
 - 🎯 You can reach me at ... vk2207419@gmail.com ...
 -     Instagram ... vansh03030
