@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi, I'm Vansh 👋<br><br>High school student by day, front-end developer by night.<br>I focus on turning ideas into fast, secure web apps from scratch. <br>Passionate about privacy-first tech and building outside the box.
 
-### 🚀 Latest Launch:
-**[Axiom OS: The AI Second Brain](https://topmate.io/vansh_chauhan22/)** — Text your thoughts on Telegram, and let Google Gemini automatically organize them into Notion. Grab the source code and template!<br>
-📖 **[Read more about Axiom OS architecture and features](https://github.com/Vanshdeveloper/Axiom-os)**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh03030) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vk2207419@gmail.com) [![Topmate](https://img.shields.io/badge/Store-Topmate-%23000000.svg?logo=buy-me-a-coffee&logoColor=white)](https://topmate.io/vansh_chauhan22/)
 
